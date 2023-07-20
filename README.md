@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Large Language Models, Various Recommendation Systems.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arya920](https://github.com/Arya920)
+- 👨‍💻 All of my projects & other professional details are available at [My Linkedin Account](linkedin.com/in/arya-chakraborty2002)
 
 - 💬 Ask me about **Statistics, Machine Learning, Deep Learning.**
 
