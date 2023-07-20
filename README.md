@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Chakraborty</h1>
-<h3 align="center">A passionate Data Scientist looking for opportunity.</h3>
+<h3 align="center">Data scientist and ML/DL enthusiast with a flair for crafting captivating web apps that turn complex datasets into actionable insights.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🔭 I’m currently working on [Code Hub- AI Code Generator](https://codegenerationpy.streamlit.app/)
