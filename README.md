@@ -2,7 +2,7 @@
 <h3 align="center">Data scientist and ML/DL enthusiast with a flair for crafting captivating web apps that turn complex datasets into actionable insights.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on [Code Hub- AI Code Generator](https://codegenerationpy.streamlit.app/)
+- 🔭 I’m currently working on [Querio_Lingua-NL-To-SQL](https://github.com/Arya920/Querio_Lingua-NL-to-SQL)
 
 - 🌱 I’m currently learning **Large Language Models, Various Recommendation Systems.**
 
