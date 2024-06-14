@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Querio_Lingua-NL-To-SQL](https://github.com/Arya920/Querio_Lingua-NL-to-SQL)
 
-- 🌱 I’m currently learning **Large Language Models, Various Recommendation Systems.**
+- 🌱 I’m currently learning **Multimodal Language Models and Defusion models.**
 
 - 👨‍💻 All of my projects are available at [https://arya920.github.io/My_Portfolio/](https://arya920.github.io/My_Portfolio/)
 
-- 💬 Ask me about **Statistics, Machine Learning, Deep Learning.**
+- 💬 Ask me about **Statistics, Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Multi Model Language Models.**
 
 - 📫 How to reach me **aryachakraborty.official@gmail.com**
 
