@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Chakraborty</h1>
-<h3 align="center">Data Scientist & ML/DL Enthusiast</h3>
+<h3 align="center">Data Scientist & ML/DL/GEN AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="400"/>
@@ -9,7 +9,7 @@
   With a passion for transforming complex datasets into actionable insights through captivating web applications.
 </p>
 
-- 🔭 I’m currently working on [**Querio_Lingua-NL-To-SQL**](https://github.com/Arya920/Querio_Lingua-NL-to-SQL)
+- 🔭 I’m currently working on [**Natural Language to SQL COnversion using GEMMA 2B**](https://huggingface.co/aryachakraborty/GEMMA-2B-NL-SQL)
 
 - 🌱 I’m currently learning about **Multimodal Language Models and Diffusion models.**
 
