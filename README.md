@@ -19,8 +19,8 @@
 ```python
 class AryaChakraborty:
     role       = "Data Scientist @ Tata Consultancy Services, Mumbai"
-    education  = ["M.Sc. Data Science — VIT (CGPA: 8.83)",
-                  "B.Sc. Statistics — Kalyani Mahavidyalaya (CGPA: 8.26)"]
+    education  = ["M.Sc. Data Science — VIT",
+                  "B.Sc. Statistics — Kalyani Mahavidyalaya"]
     focus      = ["Production ML Systems", "Generative AI", "LLMs",
                   "Computer Vision", "NLP", "RAG Pipelines"]
     currently  = "Building Lexis — a production-grade AI chatbot & knowledge assistant"
